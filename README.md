@@ -1,2 +1,4 @@
 # BITP1113-Week02
 BITP 1113 Programming Technique - Week 02 lab
+
+PAVITTRA A/P RAVI, B032610223, 1BITC S2G1
